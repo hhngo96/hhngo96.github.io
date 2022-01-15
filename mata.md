@@ -6,7 +6,8 @@ Sponsored by Memphis Area Transit Authority
 # 1. Introduction
 
 Memphis Area Transit Authority (MATA) is the public transportaiton provider for the Memphis area by offering three main type of services which are: (1) Fixed Route Buses; (2) On-demand Transit; and (3) Trolley. Fixed route buses provide routine service to a 300 square miles area and 750,000 people with annual ridership up to 7.2 million. On-demand transit aims to focus on people with disability whereas trolley have been a main tourism attraction in the city. 
-![Figure 1. Example of MATA Fixed Route Transit Bus](https://imgur.com/0xdWiMJ)
+
+![Figure 1. Example of MATA Fixed Route Transit Bus](https://i.imgur.com/0xdWiMJ.png)
 
 ## Create files and folders
 
